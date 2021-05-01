@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Welcome to minds0987 wp
     subtitle: qwertyu
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |+
+      open sourced @github, @gitlab, @bitbucket.
+
+      Hosted @vercel, @netlify, @heroku, @AWS Lambda. 
+
     actions:
       - label: Try Free
         url: /pricing
