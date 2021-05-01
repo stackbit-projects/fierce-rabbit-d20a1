@@ -33,7 +33,7 @@ sections:
     align: center
     grid_items:
       - image: images/Trapezium_bot-removebg.png
-        image_alt: Contentful logo
+        image_alt: trapezium logo
         image_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
