@@ -28,7 +28,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Recent Projects
+    title: Projects
     subtitle: minds0987 wp's cupboard
     align: center
     grid_items:
