@@ -37,7 +37,7 @@ sections:
         image_align: center
         subtitle: trapezium_bot
         title_align: center
-      - image: images/charming-celery.png
+      - image: images/dictionary-bot.svg
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
