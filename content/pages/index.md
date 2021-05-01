@@ -42,7 +42,7 @@ sections:
         image_align: center
         title_align: center
         title: Cli Dictionary
-      - image: images/logo.png
+      - image: images/calculaty.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
