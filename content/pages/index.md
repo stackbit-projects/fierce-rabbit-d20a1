@@ -4,11 +4,14 @@ sections:
   - type: hero_section
     title: Welcome to minds0987 wp
     subtitle: qwertyu
-    content: |+
-      open sourced @github, @gitlab, @bitbucket.
+    content: |
+      open sourced:
 
-      Hosted @vercel, @netlify, @heroku, @AWS Lambda. 
+      @github, @gitlab, @bitbucket.
 
+      Hosted:
+
+       @vercel, @netlify, @heroku, @AWS Lambda.
     actions:
       - label: Try Free
         url: /pricing
