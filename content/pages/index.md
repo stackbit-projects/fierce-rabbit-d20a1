@@ -35,7 +35,7 @@ sections:
       - image: images/Trapezium_bot-removebg.png
         image_alt: trapezium logo
         image_align: center
-        subtitle: Trapezium_bot
+        subtitle: trapezium_bot
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
