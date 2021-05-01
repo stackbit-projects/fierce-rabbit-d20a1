@@ -45,6 +45,7 @@ sections:
       - image: images/calculaty.png
         image_alt: Gatsby logo
         image_align: center
+        title: Calculaty
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
