@@ -40,6 +40,7 @@ sections:
       - image: images/charming-celery.png
         image_alt: Netlify logo
         image_align: center
+        subtitle: Cli
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
