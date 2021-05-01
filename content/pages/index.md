@@ -5,13 +5,13 @@ sections:
     title: Welcome to minds0987 wp
     subtitle: qwertyu
     content: |
-      open sourced:
+      #### Open Sourced:
 
-      @github, @gitlab, @bitbucket.
+      @**github**, @**gitlab**, @**bitbucket**.
 
-      Hosted:
+      #### Hosted:
 
-       @vercel, @netlify, @heroku, @AWS Lambda.
+      @**vercel**, @**netlify**, @**heroku**, @**AWS Lambda**.
     actions:
       - label: Try Free
         url: /pricing
