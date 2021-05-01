@@ -16,7 +16,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Dev login
         url: /features
         style: secondary
     image: images/classic/hero.png
