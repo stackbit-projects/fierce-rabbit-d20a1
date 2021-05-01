@@ -37,7 +37,7 @@ sections:
         image_align: center
         subtitle: trapezium_bot
         title_align: center
-      - image: images/logo-2.svg
+      - image: images/dictionary-bot.png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
