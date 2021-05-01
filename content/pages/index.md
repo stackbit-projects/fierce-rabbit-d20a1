@@ -13,7 +13,7 @@ sections:
 
       @**vercel**, @**netlify**, @**heroku**, @**AWS Lambda**.
     actions:
-      - label: Try Free
+      - label: Admin login
         url: /pricing
         style: primary
       - label: Dev login
