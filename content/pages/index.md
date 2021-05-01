@@ -38,7 +38,7 @@ sections:
         title_align: center
         title: trapezium_bot
       - image: images/charming-celery.png
-        image_alt: Netlify logo
+        image_alt: cli-dictionary-logo
         image_align: center
         title_align: center
         title: Cli Dictionary
