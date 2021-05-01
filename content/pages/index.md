@@ -35,7 +35,6 @@ sections:
       - image: images/Trapezium_bot-removebg.png
         image_alt: trapezium logo
         image_align: center
-        subtitle: trapezium_bot
         title_align: center
       - image: images/charming-celery.png
         image_alt: Netlify logo
