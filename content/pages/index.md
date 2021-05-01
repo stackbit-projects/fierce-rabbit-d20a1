@@ -29,7 +29,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Recent Projects
-    subtitle: Grid Section Example
+    subtitle: minds0987 wp's shelf
     align: center
     grid_items:
       - image: images/logo-1.svg
