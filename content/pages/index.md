@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to minds0987 wp
-    subtitle: Optional hero section subtitle
+    subtitle: open sourced @github
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
