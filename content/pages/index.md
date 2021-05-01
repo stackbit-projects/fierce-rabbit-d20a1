@@ -50,6 +50,7 @@ sections:
       - image: images/clock-app.png
         image_alt: Sanity logo
         image_align: center
+        title: Clock-app
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
