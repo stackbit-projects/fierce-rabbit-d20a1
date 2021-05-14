@@ -60,6 +60,7 @@ sections:
       - image: images/TO-DO (1).png
         image_alt: Next.js logo
         image_align: center
+        title: To-Do
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
