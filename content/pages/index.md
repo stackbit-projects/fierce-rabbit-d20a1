@@ -56,6 +56,7 @@ sections:
         image_alt: Healthy-Bites
         image_align: center
         title: Healthy-Bites
+        title_align: center
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
