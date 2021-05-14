@@ -52,7 +52,7 @@ sections:
         image_align: center
         title: Clock-app
         title_align: center
-      - image: images/HEALTHY-ITES.png
+      - image: images/Healthy-Bites.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
